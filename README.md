@@ -1,16 +1,14 @@
-### Hi there 👋
+# Привет, меня зовут Ксения!👋
+### Я Frontend-разработчик
 
-<!--
-**bezdenejnyhk/bezdenejnyhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+✨ Изучаю веб-разработку
+✨ Основной стек: HTML5 CSS3 БЭМ + JavaScript React.js Node.js
+✨ Стремлюсь к чистому и красивому коду
+✨ Училась в Яндекс.Практикуме
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Контакты
+
+📫 E-mail: yaksenia001@mail.ru
+📫 Telegram: @Yaksyy
