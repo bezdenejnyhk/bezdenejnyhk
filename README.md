@@ -6,7 +6,7 @@
   ✨ Изучаю веб-разработку  
 
 
-  ✨ Основной стек: **HTML5 CSS3 БЭМ JavaScript React.js Node.js**  
+  ✨ Основной стек: **HTML5 CSS3 БЭМ JavaScript TypeScript React.js Node.js Nest.js**  
 
 
   ✨ Стремлюсь к чистому и красивому коду  
